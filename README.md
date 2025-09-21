@@ -1,6 +1,6 @@
 
 
-### Live - surajpokharkar-react-portfolio.netlify.app
+### Live - https://surajpokharkar-react-portfolio.netlify.app/
 
 
 
